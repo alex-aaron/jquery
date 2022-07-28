@@ -12,3 +12,10 @@
 ### Adding event listeners using jQuery
 - click
   - example: $('button').click(function() { // code to run });
+
+### Adding/removing elements using jQuery
+- before
+  - example: $('selector').before("<button>new</button>");
+- after
+- prepend
+- append
